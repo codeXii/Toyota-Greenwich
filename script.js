@@ -1,4 +1,3 @@
-alert('hello world');
 
 var list1 = document.querySelector('#list1');
 var list2 = document.querySelector('#list2');
